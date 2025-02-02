@@ -47,3 +47,7 @@ Linux penguin 5.4.139-16311-g330b3df0010b #1 SMP PREEMPT Mon Nov 8 12:35:04 PST 
 $ dpkg --print-architecture
 arm64
 ```
+
+## vscode
+
+- https://code.visualstudio.com/docs/?dv=linuxarm64_deb
